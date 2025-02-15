@@ -1,0 +1,8 @@
+@import "tailwindcss";
+.btn{
+    @apply bg-purple-700  px-10 py-4 border-4 active:bg-purple-400 font-bold items-center space-x-6 text-white rounded-2xl;
+
+}
+.text-black{
+    background-color: red;
+}
